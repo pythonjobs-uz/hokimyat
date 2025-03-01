@@ -1,0 +1,13 @@
+{
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "bot",
+            "database": "hokimyat/bot.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
